@@ -4,18 +4,17 @@ from abc import get_cache_token
 print('a')
 print('ola mundo')
 
-iten = True or False
-type
+iten = True
 
 
 if iten:
     {True:
 
-     print('meu pau eh gigante ')
+     print('A')
      }
 else:
     {False:
-     print('pau pequeno')
+     print('B')
 
      }
 
