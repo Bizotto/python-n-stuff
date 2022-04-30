@@ -1,4 +1,7 @@
-a = int(input('Primeiro nuemro'))
-b = int(input('Segundo numero'))
+numberOne = int(input('Primeiro nuemro: '))
+numberTwo = int(input('Segundo numero: '))
 
-print(a + b)
+result = numberOne+numberTwo
+
+
+print("your result is {}.".format(result))

@@ -1,0 +1,5 @@
+tipo = input('digite algo: ')
+print(tipo.isnumeric())
+print(tipo.isprintable())
+print(tipo.isalpha())
+print(tipo.isascii())

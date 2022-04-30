@@ -1,3 +1,4 @@
-nome = input('Qual o seu nome?')
+text = input('Digite seu nome! ')
 
-print(nome + ', Seja bem vindo ao curso em video.')
+
+print(text + ' diz: -Ola, mundo')
