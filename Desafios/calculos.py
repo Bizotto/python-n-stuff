@@ -1,4 +1,3 @@
-
 while True:
   op = int(input('digite a operacao desejada (0 sair do sistema)'))
 
