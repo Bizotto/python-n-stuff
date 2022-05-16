@@ -14,3 +14,4 @@
 # quarto = + - 
 
 # raiz quadrada e cubica podem ser feitas usando (1/2) e (1/3)
+# exemple number 83**(1/2)
